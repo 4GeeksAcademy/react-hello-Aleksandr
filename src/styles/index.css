@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card {
+    margin-right: 10px;
+  }
+  
+  .jumbotron-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 1px;
+    margin-bottom: 80px;
+  }
+  
